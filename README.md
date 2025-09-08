@@ -1,15 +1,10 @@
 <div align="center">
 
-  <h1>Hi there, I'm <span style="color:#7aa2f7">Ramya Singh</span> 👋</h1>
-  
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=800&color=7AA2F7&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Go+%257C+React+%257C+Next.js+%257C+Docker;Building+clean+useful+products" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=900&color=7AA2F7&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!;I'm+RAMYA;I'm+a+Software+Developer" alt="Typing SVG" />
   </a>
 
   <img src="https://komarev.com/ghpvc/?username=ramyasingh3&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-
-  <br/>
-  <br/>
 
   <a href="mailto:ramya333singh@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/ramya-singh-3r3" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
