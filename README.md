@@ -4,10 +4,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FF2D75&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile!;I'm+RAMYA;I'm+a+Software+Developer" alt="Typing SVG" />
   </a>
 
-  <img src="https://komarev.com/ghpvc/?username=ramyasingh3&label=Profile%20views&color=FF2D75&style=flat" alt="profile views" />
-
-  <a href="mailto:ramya333singh@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/ramya-singh-3r3" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   
 
 </div>
@@ -64,9 +60,4 @@
 
 ---
 
-### Contact me
-
-<div align="center">
-  <a href="mailto:ramya333singh@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF2D75?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/ramya-singh-3r3" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</div>
+<!-- Contact section intentionally removed as requested -->
