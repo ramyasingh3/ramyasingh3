@@ -14,16 +14,15 @@
 
 ---
 
-### About me
-
-- 🔭 I’m currently building full‑stack projects and polishing my problem‑solving skills
-- 🌱 Learning more about scalable backends, databases, and cloud deployments
-- 🤝 Open to collaborating on interesting web apps and UI/UX‑driven tools
-- 📫 Reach me at: `ramya333singh@gmail.com`
+<div align="center">
+  <p style="max-width:820px">
+    I am a software developer passionate about building clean, useful products. I enjoy Go and modern web stacks, and I’m actively exploring scalable backends, cloud, and developer tooling.
+  </p>
+</div>
 
 ---
 
-### Languages and Tools
+### Language and Tools
 
 <table>
   <tr>
@@ -42,32 +41,32 @@
 
 ---
 
-### GitHub Overview
+### My GitHub Statistics
+
+<table>
+  <tr>
+    <td>
+      <img height="180" src="https://github-readme-stats.vercel.app/api?username=ramyasingh3&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF2D75&text_color=C9D1D9&icon_color=FF2D75" alt="stats" />
+    </td>
+    <td>
+      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramyasingh3&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF2D75&text_color=C9D1D9" alt="top langs" />
+    </td>
+  </tr>
+</table>
 
 <div align="center">
+  <img height="190" src="https://streak-stats.demolab.com?user=ramyasingh3&hide_border=true&background=0D1117&ring=FF2D75&fire=FF2D75&currStreakLabel=FF2D75&sideNums=FF2D75&sideLabels=C9D1D9&dates=8B949E&stroke=30363d" alt="streak" />
+</div>
 
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ramyasingh3&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF2D75&text_color=C9D1D9&icon_color=FF2D75" alt="stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramyasingh3&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF2D75&text_color=C9D1D9" alt="top langs" />
-
-  <br/>
-  <br/>
-
-  <img height="180" src="https://streak-stats.demolab.com?user=ramyasingh3&hide_border=true&background=0D1117&ring=FF2D75&fire=FF2D75&currStreakLabel=FF2D75&sideNums=FF2D75&sideLabels=C9D1D9&dates=8B949E&stroke=30363d" alt="streak" />
-
-  <br/>
-  <br/>
-
-  <img src="https://github-profile-trophy.vercel.app/?username=ramyasingh3&theme=dracula&margin-w=10&no-frame=true&row=1&column=6" alt="trophies" />
-
-  <br/>
-  <br/>
-
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramyasingh3&theme=redical&hide_border=true" alt="activity graph" />
-
 </div>
 
 ---
 
-### Let’s connect
+### Contact me
 
-If you like my work, feel free to reach out or just say hi. I’m always happy to discuss ideas, collaborate, or help with open source.
+<div align="center">
+  <a href="mailto:ramya333singh@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF2D75?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ramya-singh-3r3" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</div>
