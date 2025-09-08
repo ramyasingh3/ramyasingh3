@@ -1,7 +1,10 @@
 <div align="center">
 
   <h1>Hi there, I'm <span style="color:#7aa2f7">Ramya Singh</span> 👋</h1>
-  <p>A passionate Full‑Stack Developer who loves building thoughtful products and clean developer experiences.</p>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&lines=Full‑Stack+Developer;Go+%7C+React+%7C+Next.js+%7C+Docker;Building+clean+and+useful+products" alt="Typing SVG" />
+  </a>
 
   <img src="https://komarev.com/ghpvc/?username=ramyasingh3&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 
