@@ -46,23 +46,23 @@
 
 <div align="center">
 
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ramyasingh3&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramyasingh3&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ramyasingh3&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF2D75&text_color=C9D1D9&icon_color=FF2D75" alt="stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramyasingh3&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF2D75&text_color=C9D1D9" alt="top langs" />
 
   <br/>
   <br/>
 
-  <img height="180" src="https://streak-stats.demolab.com?user=ramyasingh3&theme=tokyonight&hide_border=true" alt="streak" />
+  <img height="180" src="https://streak-stats.demolab.com?user=ramyasingh3&hide_border=true&background=0D1117&ring=FF2D75&fire=FF2D75&currStreakLabel=FF2D75&sideNums=FF2D75&sideLabels=C9D1D9&dates=8B949E&stroke=30363d" alt="streak" />
 
   <br/>
   <br/>
 
-  <img src="https://github-profile-trophy.vercel.app/?username=ramyasingh3&theme=onedark&margin-w=10&no-frame=true&row=1&column=6" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ramyasingh3&theme=dracula&margin-w=10&no-frame=true&row=1&column=6" alt="trophies" />
 
   <br/>
   <br/>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramyasingh3&theme=tokyo-night&hide_border=true" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramyasingh3&theme=redical&hide_border=true" alt="activity graph" />
 
 </div>
 
