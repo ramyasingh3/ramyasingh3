@@ -8,9 +8,9 @@
   <br/>
   <br/>
 
-  <a href="mailto:ramyasingh.dev@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/ramyasingh3" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/ramyasingh3" target="_blank"><img src="https://img.shields.io/badge/Twitter-%23000000.svg?&style=for-the-badge&logo=X&logoColor=white" /></a>
+  <a href="mailto:ramya333singh@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ramya-singh-3r3" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  
 
 </div>
 
@@ -30,6 +30,63 @@
 <p>
   <img src="https://skillicons.dev/icons?i=ts,js,react,next,tailwind,nodejs,express,postgres,mongodb,prisma,redis,docker,vercel,aws,python,java,git,github" />
 </p>
+
+---
+
+### Education
+
+- **Dr. A. P. J. Abdul Kalam Technical University**, Noida, UP  
+  B.Tech in Computer Science — Aug 2022 – Jun 2026
+
+---
+
+### Achievements
+
+- Solved **450+** DSA problems across LeetCode, GFG, and NeetCode
+- **LeetCode**: 250+ problems · Rating **1450+** · Top **20%**
+- **GFG**: Score **250** · Rank **Top 10k** · 150+ problems
+- Completed **NeetCode 150** curated interview list
+
+---
+
+### Experience
+
+- **Open Source Contributor, Hacktoberfest** — DigitalOcean & GitHub · Remote  
+  – Contributed bug fixes, feature enhancements, and documentation to OSS projects.  
+  – Worked with GitHub Actions, CI/CD pipelines, Dockerization, and Agile workflows.
+
+- **GirlScript Summer of Code Developer** — GirlScript Foundation · Remote  
+  – Developed features in full‑stack repositories using Go, ReactJS, and NextJS.  
+  – Implemented REST APIs, caching with Redis, and optimized SQL queries.  
+  – Mentored contributors and participated in Agile sprint discussions.
+
+---
+
+### Projects
+
+- **Real‑Time Fraud Detection System in Go**  
+  – Designed a Go‑based microservices system for fraud detection.  
+  – Used goroutines, Kafka for streaming, and containerized services with Docker.  
+  – Explored orchestration tools for deployment and scalability.  
+  – Utilized Redis caching and PostgreSQL for transactional data.  
+  – Tech: Go, gRPC, Kafka, Docker, Redis, PostgreSQL, REST
+
+- **Cryptocurrency Data Analytics Platform**  
+  – Built Go microservice to fetch and process real‑time data from CoinGecko.  
+  – Stored historical data in MongoDB; exposed via REST API.  
+  – Deployed on AWS with CI/CD pipelines.  
+  – Tech: Go, ReactJS, NextJS, MongoDB, Docker, AWS, REST
+
+---
+
+### Skills
+
+- **Languages**: Go, Python, C, C++, JavaScript (ReactJS, NextJS), HTML/CSS  
+- **Backend & APIs**: Go (net/http, gRPC), REST, Microservices, Redis  
+- **Databases**: PostgreSQL, MongoDB, SQL  
+- **DevOps & Cloud**: Linux, Docker, Kubernetes, CI/CD, AWS, GCP, MS Azure  
+- **Version Control**: Git, GitHub  
+- **Testing**: Go testing, PyTest, Postman
 
 ---
 
