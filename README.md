@@ -33,14 +33,10 @@
       <img src="https://skillicons.dev/icons?i=redis,postgres,mongodb,linux,docker,kubernetes,githubactions,aws,gcp,azure,git,github,postman,pytest" />
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="280" alt="developer at laptop" />
+      <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="320" alt="developer at laptop" />
     </td>
   </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <sub style="color:#FF2D75">Inspired theme: neon pink on dark</sub>
-    </td>
-  </tr>
+  
   
 </table>
 
