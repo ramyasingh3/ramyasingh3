@@ -1,10 +1,10 @@
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=900&color=7AA2F7&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!;I'm+RAMYA;I'm+a+Software+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FF2D75&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile!;I'm+RAMYA;I'm+a+Software+Developer" alt="Typing SVG" />
   </a>
 
-  <img src="https://komarev.com/ghpvc/?username=ramyasingh3&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ramyasingh3&label=Profile%20views&color=FF2D75&style=flat" alt="profile views" />
 
   <a href="mailto:ramya333singh@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/ramya-singh-3r3" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -25,9 +25,24 @@
 
 ### Languages and Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=go,python,c,cpp,js,react,nextjs,html,css,redis,postgres,mongodb,linux,docker,kubernetes,githubactions,aws,gcp,azure,git,github,postman,pytest" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://skillicons.dev/icons?i=go,python,c,cpp,js,react,nextjs,html,css" />
+      <br/>
+      <img src="https://skillicons.dev/icons?i=redis,postgres,mongodb,linux,docker,kubernetes,githubactions,aws,gcp,azure,git,github,postman,pytest" />
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="280" alt="developer at laptop" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <sub style="color:#FF2D75">Inspired theme: neon pink on dark</sub>
+    </td>
+  </tr>
+  
+</table>
 
 ---
 
