@@ -55,7 +55,7 @@
 </table>
 
 <div align="center">
-  <img height="190" src="https://streak-stats.demolab.com?user=ramyasingh3&hide_border=true&background=0D1117&ring=FF2D75&fire=FF2D75&currStreakLabel=FF2D75&sideNums=FF2D75&sideLabels=C9D1D9&dates=8B949E&stroke=30363d" alt="streak" />
+  <img height="190" src="https://streak-stats.demolab.com?user=ramyasingh3&hide_border=true&background=0D1117&ring=FF2D75&fire=FF2D75&currStreakLabel=FF2D75&currStreakNum=FF2D75&sideNums=FF2D75&sideLabels=C9D1D9&dates=8B949E&stroke=30363d" alt="streak" />
 </div>
 
 <div align="center">
