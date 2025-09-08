@@ -21,14 +21,14 @@
 - 🔭 I’m currently building full‑stack projects and polishing my problem‑solving skills
 - 🌱 Learning more about scalable backends, databases, and cloud deployments
 - 🤝 Open to collaborating on interesting web apps and UI/UX‑driven tools
-- 📫 Reach me at: `ramyasingh.dev@gmail.com`
+- 📫 Reach me at: `ramya333singh@gmail.com`
 
 ---
 
 ### Languages and Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,next,tailwind,nodejs,express,postgres,mongodb,prisma,redis,docker,vercel,aws,python,java,git,github" />
+  <img src="https://skillicons.dev/icons?i=go,python,c,cpp,js,react,nextjs,html,css,redis,postgres,mongodb,linux,docker,kubernetes,githubactions,aws,gcp,azure,git,github,postman,pytest" />
 </p>
 
 ---
