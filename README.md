@@ -59,18 +59,6 @@
 
 ---
 
-### Featured Projects
-
-- 🚀 Pin your top repos here once you have projects you want to highlight. You can use cards like these:
-
-<div align="left">
-
-  <a href="https://github.com/ramyasingh3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ramyasingh3&repo=your-best-repo&theme=tokyonight&hide_border=true" alt="Pinned repo" /></a>
-
-</div>
-
----
-
 ### Let’s connect
 
 If you like my work, feel free to reach out or just say hi. I’m always happy to discuss ideas, collaborate, or help with open source.
